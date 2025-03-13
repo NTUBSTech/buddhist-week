@@ -11,7 +11,7 @@ export const EventData: Event[] = [
   {
     id: 1,
     date: "Sep 26",
-    image: "/children.jpeg",
+    image: "/bodhi.jpg",
     name: "Bodhi Session",
     headline: "Overcoming Restlessness and Boredom Through Mindfulness",
     content: `On September 26th, 2024, I had the chance to attend Bodhi Session 1 titled “Samadhi: About Boredom and Restlessness, Achieving Mindfulness through Meditation” was held. This two-hour session, led by Sayalay Sujata and supported by the Dhamma Study team, provided NTUBS members with valuable insights into restlessness and boredom from a Buddhist perspective, along with ways to face them through mindfulness.
@@ -27,7 +27,7 @@ export const EventData: Event[] = [
     date: "Oct 2",
     image: "/children.jpeg",
     name: "Children's Day Celebration",
-    headline: "Overcoming Restlessness and Boredom Through Mindfulness",
+    headline: "A Heartwarming Children's Day with NTUBS at LBSCC",
     content: `Children’s Day Celebration has always been a special occasion in NTUBS, but this year’s celebration was truly unforgettable. The celebration was held at Little Bodhi Student Care Centre (LBSCC) on 4th of October. The moment we arrived; we were greeted warmly by the teachers and childrens that instantly triggered our spirits. 
 
 We started the celebration after the childrens finished their lunch, while we had to prepare something beforehand. We splitted them into 6 groups since there were 3 game stations (Matching Ruby, Bounce It, and Scrambled Eggi). Matching Ruby is a game similar to a matching sentence game but uses a set of clothes from Growtopia instead of words. Bounce It, on the other hand, was quite popular among children because it is both challenging and fun. This game involves bouncing a small ball into a cup from a certain distance. Additionally, there were extra activities at this station, such as stacking cups into a tower and participating in quizzes. While the final station posed the greatest challenge, as it required teamwork. In this relay race, the children had to transport bottle caps using a spoon, collect puzzle pieces, and work together to solve the puzzle. 
@@ -39,7 +39,7 @@ Personally, I was quite exhausted since I had to take pictures of three station 
     date: "Oct 8",
     image: "/kensho.jpeg",
     name: "Kensho Session",
-    headline: "Overcoming Restlessness and Boredom Through Mindfulness",
+    headline: "Insights and Reflections from the First Kensho Session",
     content: `On 8th October 2024, the Dharma Study team held their first Kensho Session of the semester, an event I had eagerly anticipated. The session featured three speakers, each presenting on a unique topic.
   
   The first speaker, Bro. Zi Xian, discussed the theme “Buddhism is Secular and Sectarian.” My favorite part of his segment was the discussion on how laypeople can practice the Buddha Dharma in daily life. The diverse perspectives shared during this discussion were incredibly insightful, revealing practical ways to embody Dharma beyond the foundational practice of the five precepts. This enriched my understanding of how deeply Dharma can integrate into everyday experiences.
@@ -55,7 +55,7 @@ Personally, I was quite exhausted since I had to take pictures of three station 
     date: "Oct 29",
     image: "/ewd.jpeg",
     name: "Exam Welfare Dinner",
-    headline: "Overcoming Restlessness and Boredom Through Mindfulness",
+    headline: "A Night of Community and Mindfulness at NTUBS Exam Welfare Dinner",
     content: `As a participant of the NTUBS Exam Welfare Dinner, I had the opportunity of experiencing a truly heartwarming and rejuvenating evening. Held on Tuesday, October 29th, 2024, at The Arc, the event provided a much-needed break from the academic pressures of the semester. 
 
 As the sun began to set, we gathered for dinner and engaged in lively conversations with fellow NTUBS members. The evening commenced with a soothing opening puja, setting a peaceful tone for the event.  
@@ -73,7 +73,7 @@ I am truly grateful for the opportunity to have been a part of this wonderful ex
     date: "Oct 7-8",
     image: "/mr.jpeg",
     name: "Mindfullness Retreat",
-    headline: "Overcoming Restlessness and Boredom Through Mindfulness",
+    headline: "Finding Peace and Mindfulness at the Lin San Temple Retreat",
     content: `On 7th – 8th December 2024, I attended a 2-days Mindfulness Retreat at Lin San Temple, which is held and organized by the Dharma Propagation team. This was the perfect opportunity for me to unwind and relax after a stressful month full of submissions and final exams. I was really looking forward to the retreat, especially towards the meditation sessions that can help me ease my post-finals worries.  
 
 Once we arrived, our first agenda was to listen to Dharma Talk by Bro. Danry about introduction to meditation. Bro. Danry also explored topics such as mindfulness and compassion. This talk cleared up a lot of misconceptions that I had before about meditation and helped me understand that meditation can help us to be more mindful in our daily lives.  

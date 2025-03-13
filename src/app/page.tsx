@@ -17,7 +17,6 @@ export default function Home() {
             return (
               <Link key={index} href={`/${event.id}`}>
                 <Card
-                  key={index}
                   name={event.name}
                   date={event.date}
                   headline={event.headline}
